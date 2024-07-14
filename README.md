@@ -12,7 +12,7 @@
     <img alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="Murilo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
     <img alt="Murilo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"> 
-    <img alt="Murilo-Git" height="30" width="40" src="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+    <img alt="Murilo-Git" height="30" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
 
   </div>
 
