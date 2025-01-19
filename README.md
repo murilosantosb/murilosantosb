@@ -10,6 +10,7 @@
     <img alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img alt="Murilo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img alt="Murilo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img alt="Murilo-NextJS" height="30" width="40" src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000">
     <img alt="Murilo-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"> 
     <img alt="Murilo-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"> 
     <img alt="Murilo-Git" height="30" width="40" src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000">
