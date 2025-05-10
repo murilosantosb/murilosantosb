@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Murilo 👋
 
 - 🖥️ Sou um desenvolvedor front-end
-- 📘 Atualmente estudando NodeJS + TypeScript
+- 📘 Atualmente estudando Python + IA
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
   <div style="display: flex; flex-direction: column; align-items: flex-start; margin-right: 20px;">
