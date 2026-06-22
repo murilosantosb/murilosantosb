@@ -18,10 +18,16 @@
       <img src="https://img.icons8.com/?size=100&id=MWiBjkuHeMVq&format=png&color=000000" width="40" height="40" alt="Next.js"/>
     </td>
     <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=71257&format=png&color=000000" width="40" height="40" alt="Angular"/>
+    </td>
+    <td align="center" width="100">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
     </td>
     <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="40" height="40" alt="Firebase"/>
+      <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" width="40" height="40" alt="Java"/>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" width="40" height="40" alt="Spring Boot"/>
     </td>
     <td align="center" width="100">
       <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40" alt="Git"/>
@@ -44,8 +50,10 @@
     <td align="center" style="font-size: 12px;">TypeScript</td>
     <td align="center" style="font-size: 12px;">React</td>
     <td align="center" style="font-size: 12px;">Next.js</td>
+    <td align="center" style="font-size: 12px;">Angular</td>
     <td align="center" style="font-size: 12px;">Node.js</td>
-    <td align="center" style="font-size: 12px;">Firebase</td>
+    <td align="center" style="font-size: 12px;">Java</td>
+    <td align="center" style="font-size: 12px;">Spring Boot</td>
     <td align="center" style="font-size: 12px;">Git</td>
     <td align="center" style="font-size: 12px;">Python</td>
     <td align="center" style="font-size: 12px;">SQL</td>
