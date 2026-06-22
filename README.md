@@ -41,9 +41,6 @@
     <td align="center" width="100">
       <img src="https://img.icons8.com/?size=100&id=37410&format=png&color=ffffff" width="40" height="40" alt="AI"/>
     </td>
-    <td align="center" width="100">
-      <img src="https://img.icons8.com/?size=100&id=4hGUZoWc6Eyu&format=png&color=ffffff" width="40" height="40" alt="Machine Learning"/>
-    </td>
   </tr>
   <tr>
     <td align="center" style="font-size: 12px;">JavaScript</td>
@@ -58,7 +55,6 @@
     <td align="center" style="font-size: 12px;">Python</td>
     <td align="center" style="font-size: 12px;">SQL</td>
     <td align="center" style="font-size: 12px;">AI</td>
-    <td align="center" style="font-size: 12px;">ML</td>
   </tr>
 </table>
   <div>
